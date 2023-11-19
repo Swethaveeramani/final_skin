@@ -42,8 +42,8 @@ function Profile() {
 
 
                             <div>
-                                <h3>Anshu Raj</h3>
-                                <p>fakereal477@gmail.com</p>
+                                <h3>swetha</h3>
+                                <p>swethav.21it@kongu.edu</p>
                                 <p>+91 - 800******7</p>
                             </div>
 
